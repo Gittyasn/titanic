@@ -68,5 +68,3 @@ python -m streamlit run "titanic survival prediction/dashboard/app.py"
 *   **Feature Importance**: SHAP analysis reveals that 'Title_Mr' and 'Sex_female' are the most influential survival nodes.
 *   **Tuning Impact**: Automated GridSearch improved the Random Forest precision by ~3.4% compared to baseline.
 
----
-*Developed by **Antigravity AI** | Built for Major Portfolio Benchmarking*
