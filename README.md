@@ -6,7 +6,7 @@ Titanic Intelligence Platform (Professional ML V2.0)
 
 This is a **High-Performance Machine Learning Intelligence Platform** that transforms the historical Titanic dataset into a deep analytical system. Designed for professional portfolios, it showcases advanced engineering patterns, model explainability (SHAP), and a premium interactive UX.
 
-## 🚀 Premium Features
+##  Premium Features
 
 - **Intelligence Dashboard**: A high-end experience featuring Glassmorphism UI, Lottie animations, and dynamic transitions.
 - **Explainable AI (XAI)**: Integrated **SHAP (SHapley Additive exPlanations)** values to decode exactly *why* the models make their decisions.
@@ -14,7 +14,7 @@ This is a **High-Performance Machine Learning Intelligence Platform** that trans
 - **High-Dimensional Analytics**: 3D interactive scatter plots and professional ROC-AUC benchmarking.
 - **Modular Enterprise Pattern**: Clean separation of concerns across `src/` modules, strictly following production-grade Python standards.
 
-## 🧠 Strategic Modules
+##  Strategic Modules
 
 ```text
 titanic-intelligence/
@@ -31,7 +31,7 @@ titanic-intelligence/
 └── README.md           # This strategic guide
 ```
 
-## 🛠️ Stack & Technologies
+##  Stack & Technologies
 
 - **Core**: Python 3.8+
 - **Data Engineering**: Pandas, NumPy
@@ -39,7 +39,7 @@ titanic-intelligence/
 - **Visuals**: Plotly Professional, Matplotlib/Seaborn, Scikit-Plot
 - **UI/UX**: Streamlit, Lottie Animations, Custom CSS-in-JS
 
-## 🚦 Getting Started
+##  Getting Started
 
 ### Installation
 
