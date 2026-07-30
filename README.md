@@ -1,4 +1,4 @@
-Titanic Intelligence Platform (Professional ML V2.0)
+###Titanic Intelligence Platform (Professional ML V2.0)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](#interactive-dashboard)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -62,7 +62,7 @@ titanic-intelligence/
 python -m streamlit run "titanic survival prediction/dashboard/app.py"
 ```
 
-## 📈 Strategic Insights
+### Strategic Insights
 
 *   **Social Class Hierarchy**: Survival probability drops by over 40% for the 3rd class despite similar age distributions.
 *   **Feature Importance**: SHAP analysis reveals that 'Title_Mr' and 'Sex_female' are the most influential survival nodes.
