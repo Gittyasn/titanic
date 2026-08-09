@@ -1,4 +1,4 @@
-#########  Titanic Intelligence Platform (Professional ML V2.0)
+$$$$  Titanic Intelligence Platform (Professional ML V2.0)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](#interactive-dashboard)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
