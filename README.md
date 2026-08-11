@@ -6,7 +6,7 @@
 
 This is a **High-Performance Machine Learning Intelligence Platform** that transforms the historical Titanic dataset into a deep analytical system. Designed for professional portfolios, it showcases advanced engineering patterns, model explainability (SHAP), and a premium interactive UX.
 
-##  Premium Features
+###  Premium Features
 
 - **Intelligence Dashboard**: A high-end experience featuring Glassmorphism UI, Lottie animations, and dynamic transitions.
 - **Explainable AI (XAI)**: Integrated **SHAP (SHapley Additive exPlanations)** values to decode exactly *why* the models make their decisions.
