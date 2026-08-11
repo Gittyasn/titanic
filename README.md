@@ -41,7 +41,7 @@ titanic-intelligence/
 
 ##  Getting Started
 
-### Installation
+##  Installation
 
 1. **Clone & Enter**:
    ```bash
