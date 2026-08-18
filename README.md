@@ -46,7 +46,7 @@ titanic-intelligence/
 1. **Clone & Enter**:
    ```bash
    git clone [repository-url]
-   cd titanic-intelligence
+    cd "titanic survival prediction"
    ```
 
 2. **Environment Setup**:
