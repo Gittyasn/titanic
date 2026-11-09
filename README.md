@@ -1,4 +1,4 @@
-🛳️ Titanic Intelligence Platform (Professional ML V2.00)
+🛳️ Titanic Intelligence Platform  (Professional ML V2.00)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](#interactive-dashboard)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -6,7 +6,7 @@
 
 This is a **High-Performance Machine Learning Intelligence Platform** that transforms the historical Titanic dataset into a deep analytical system. Designed for professional portfolios, it showcases advanced engineering patterns, model explainability (SHAP), and a premium interactive UX.
 
-####  Premium Features
+### Premium Features
 
 - **Intelligence Dashboard**: A high-end experience featuring Glassmorphism UI, Lottie animations, and dynamic transitions.
 - **Explainable AI (XAI)**: Integrated **SHAP (SHapley Additive exPlanations)** values to decode exactly *why* the models make their decisions.
@@ -15,7 +15,6 @@ This is a **High-Performance Machine Learning Intelligence Platform** that trans
 - **Modular Enterprise Pattern**: Clean separation of concerns across `src/` modules, strictly following production-grade Python standards.
 
 ##  Strategic Modules
-
 ```text
 titanic-intelligence/
 ├── src/                # The Brain (Modular Logic)
@@ -39,10 +38,9 @@ titanic-intelligence/
 - **Visuals**: Plotly Professional, Matplotlib/Seaborn, Scikit-Plot
 - **UI/UX**: Streamlit, Lottie Animations, Custom CSS-in-JS
 
-##  Getting Started
+###  Getting Started
 
-##  Installation
-
+###  Installation
 1. **Clone & Enter**:
    ```bash
    git clone [repository-url]
